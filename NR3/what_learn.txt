@@ -1,2 +1,0 @@
-URL Dispatcher or URL Pattern inside Application in Django.
-Template and How to Render Template Files in Django

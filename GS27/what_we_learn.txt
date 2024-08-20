@@ -1,1 +1,0 @@
-Dynamic Template Files using DTL in Django
